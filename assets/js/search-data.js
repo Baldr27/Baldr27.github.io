@@ -9,8 +9,8 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-projects",
-          title: "projects",
+  },{id: "nav-proyectos",
+          title: "proyectos",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {
@@ -47,13 +47,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("mailto:%67%6A%61%72%61.%70%72%67@%67%6D%61%69%6C.%63%6F%6D", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
         },
       },{
         id: 'social-linkedin',
