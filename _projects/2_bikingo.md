@@ -12,8 +12,8 @@ category: work
 
 App de trazado de rutas para ciclistas en Temuco.
 
-*   **Gestión del proyecto:** Coordinación del equipo y planificación de entregables.
-*   **Desarrollo Móvil:** Funcionalidades principales para Android.
-*   **Back-End:** Desarrollo de APIs y lógica para rutas y usuarios.
+- **Gestión del proyecto:** Coordinación del equipo y planificación de entregables.
+- **Desarrollo Móvil:** Funcionalidades principales para Android.
+- **Back-End:** Desarrollo de APIs y lógica para rutas y usuarios.
 
 **Tecnologías:** Jira (Atlassian Tools), ExpressJS, Expo, GoogleAPIs.
