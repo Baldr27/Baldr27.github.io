@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Germán
-middle_name: 
+middle_name:
 last_name: Jara
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
@@ -275,10 +275,10 @@ display_categories: ["external-services"] # these categories will be displayed o
 # scholar:
 #   last_name: [Einstein]
 #   first_name: [Albert, A.]
-# 
+#
 #   style: apa
 #   locale: en
-# 
+#
 #   source: /_bibliography/
 #   bibliography: papers.bib
 #   bibliography_template: bib
@@ -288,10 +288,10 @@ display_categories: ["external-services"] # these categories will be displayed o
 #   bibtex_filters: [latex, smallcaps, superscript]
 #   replace_strings: true
 #   join_strings: true
-# 
+#
 #   details_dir: bibliography
 #   details_link: Details
-# 
+#
 #   query: "@*"
 #   group_by: year
 #   group_order: descending
